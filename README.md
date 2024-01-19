@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an 18y/o developer studying Computer Science at the Catholic University of Leuven. <br>I would like to get into network engineering or network security, and if that doesn't work software/ web development.<br>Hit me up if you need free .be domains ;) 
+I'm an 18y/o developer studying Computer Science at the Catholic University of Leuven. I would like to get into network engineering or network security, and if that doesn't work software/ web development.<br> I like php, shoot me. Hit me up if you need free .be domains or hosting ;) 
 
 
 # 💻 Tech Stack:
@@ -8,6 +8,9 @@ I'm an 18y/o developer studying Computer Science at the Catholic University of L
 ![](https://github-readme-stats.vercel.app/api?username=LaurensHolthof&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LaurensHolthof&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurensHolthof&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LaurensHolthof&icon=0&color=1)](https://visitcount.itsvg.in)
