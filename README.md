@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an 18y/o developer studying Computer Science at the Catholic University of Leuven. I would like to get into network engineering or network security, and if that doesn't work software/ web development. I like php, shoot me. <br> Hit me up if you need free .be domains or hosting ;) 
+I'm a 19y/o developer studying Computer Science at the Catholic University of Leuven. I would like to get into network engineering or network security, and if that doesn't work software/ web development. I like php, shoot me. <br> Hit me up if you need free .be domains or hosting ;) 
 
 
 # 💻 Tech Stack:
