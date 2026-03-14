@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 20y/o developer studying Computer Science at the Catholic University of Leuven. I would like to get into hardware R&D with a master's in nanotech or comp engineering, and if that doesn't work out network engineering. I like php, shoot me 😋. <br> Hit me up if you need free .be domains or hosting ;) 
+I'm a 20y/o developer studying Computer Science at the Catholic University of Leuven. I would like to get into hardware R&D with a master's in nanotech or comp engineering, and if that doesn't work out network engineering. I like php, shoot me 😋. Pretty much all of my repos on here are private but feel free to try and pentest my file hosting site :3 <br> Oh, and hit me up if you need free .be domains or hosting ;) 
 
 
 # 💻 Tech Stack:
